@@ -1,1 +1,2 @@
-# **This is a Folder for Fullstack developer course**
+# Image Gallery by Hector
+Here we found the practice of Image Gallery 
